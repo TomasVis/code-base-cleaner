@@ -1,0 +1,80 @@
+======appsettings.Development.json======
+
+======appsettings.json======
+//"Logging": {
+//   "LogLevel": {
+//     "Default": "Warning"
+//   }
+// },
+
+======HomeController.cs======
+//TestTitle,
+
+======ErrorViewModel.cs======
+
+======Program.cs======
+
+======launchSettings.json======
+
+======ReadmeBA.csproj======
+
+======Startup.cs======
+/*route*/
+/*routes.MapRoute(
+                    name: "defaultApi",
+                    template: "api/{controller=Home}/{action=Index}/{id?}");*/
+/// <summary>
+/// Does nothing
+/// </summary>
+//TODO: Do something later. When other functionality is implemented.
+// This method gets called by the runtime. Use this method to add services to the container.
+// This lambda determines whether user consent for non-essential cookies is needed for a given request.
+// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+
+======Index.cshtml======
+@*to BA front page*@
+
+======Privacy.cshtml======
+
+======Error.cshtml======
+
+======_CookieConsentPartial.cshtml======
+
+======_Layout.cshtml======
+
+======_ValidationScriptsPartial.cshtml======
+
+======_ViewImports.cshtml======
+
+======_ViewStart.cshtml======
+
+======site.css======
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+/* Sticky footer styles
+-------------------------------------------------- */
+/* Sticky footer styles
+-------------------------------------------------- */
+/* Margin bottom by footer height */
+/* Set the fixed height of the footer here */
+/* Vertically center the text there */
+
+======favicon.ico======
+
+======htmlpage.html======
+<!--that provides information-->
+
+======site.js======
+/*alert("this is my comment");
+     
+     
+     
+     
+     
+     */
+// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+// for details on configuring this project to bundle and minify static web assets.
+// Write your JavaScript code.
+//alert("this is my comment");
+
